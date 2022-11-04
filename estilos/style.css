@@ -36,7 +36,7 @@ section#telefone {
 }
 
 iframe#tela {
-    position: relative;
+    position: relative; /* permite posicionamento manual com top/left */
     top: 80px; /*  topo da posição da imagem home */
     left: 22px; /* esquerda da posição da imagem home */
     width: 266px;
