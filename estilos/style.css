@@ -9,6 +9,7 @@
 html, body {
     height: 100vh; /* view height - altura total do navegador */
     width: 100vw; /* view widht - largura total do navegador */
+    min-width: 460px;
     background-color: black;
 }
 
@@ -43,7 +44,7 @@ iframe#tela {
 }
 
 section#redes-sociais {
-    text-align: right;
+    text-align: left;
 }
 
 section#redes-sociais img {
